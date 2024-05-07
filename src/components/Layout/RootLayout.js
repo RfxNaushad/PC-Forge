@@ -180,10 +180,10 @@ const RootLayout = (props) => {
               fontSize: "28px",
             }}
           >
-            PC Builder Hub
+            PC Forge
           </h2>
           <p className={styles.social_icons}>
-            <Link href="https://www.facebook.com/AtharTasdiq" target="_blank">
+            <Link href="https://www.facebook.com/rfxnaushad/" target="_blank">
               <FacebookFilled />
             </Link>
             <Link href="www.twitter.com" target="_blank">
@@ -192,11 +192,11 @@ const RootLayout = (props) => {
             <Link href="https://google.com" target="_blank">
               <GoogleSquareFilled />
             </Link>
-            <Link href="https://www.linkedin.com/in/athar-tasdiq-2615231b8/" target="_blank">
+            <Link href="https://www.linkedin.com/in/naushad-karim" target="_blank">
               <LinkedinFilled />
             </Link>
           </p>
-          PC Builder Hub ©2023 Created by Atahar Ali Khan
+          PC Builder Hub ©2023 Created by Naushad Karim
         </Footer>
     </Layout>
   );
