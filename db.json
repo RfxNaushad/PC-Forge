@@ -1,0 +1,74 @@
+{
+  "news":[
+    {
+      "_id": "64c3b44e123f05bf69cecb2c",
+      "image": "http://placehold.it/32x32",
+      "price": 34,
+      "eyeColor": "brown",
+      "productName": "Renee",
+      "tating": "<ReferenceError: number is not defined>",
+      "email": "reneelynn@ronbert.com",
+      "Status": "stock"
+    },
+    {
+      "_id": "64c3b44e833a80ed4d00f61a",
+      "image": "http://placehold.it/32x32",
+      "price": 37,
+      "eyeColor": "blue",
+      "productName": "Duke",
+      "tating": "<ReferenceError: number is not defined>",
+      "email": "dukelynn@ronbert.com",
+      "Status": "out of stock"
+    },
+    {
+      "_id": "64c3b44e307e0d3a127802c4",
+      "image": "http://placehold.it/32x32",
+      "price": 23,
+      "eyeColor": "green",
+      "productName": "Silva",
+      "tating": "<ReferenceError: number is not defined>",
+      "email": "silvalynn@ronbert.com",
+      "Status": "out of stock"
+    },
+    {
+      "_id": "64c3b44ecc7b896658fcfbf3",
+      "image": "http://placehold.it/32x32",
+      "price": 32,
+      "eyeColor": "brown",
+      "productName": "Hill",
+      "tating": "<ReferenceError: number is not defined>",
+      "email": "hilllynn@ronbert.com",
+      "Status": "stock"
+    },
+    {
+      "_id": "64c3b44e73b97f2d28ac2a3e",
+      "image": "http://placehold.it/32x32",
+      "price": 25,
+      "eyeColor": "brown",
+      "productName": "Fisher",
+      "tating": "<ReferenceError: number is not defined>",
+      "email": "fisherlynn@ronbert.com",
+      "Status": "out of stock"
+    },
+    {
+      "_id": "64c3b44e6f10cebe5706a737",
+      "image": "http://placehold.it/32x32",
+      "price": 28,
+      "eyeColor": "blue",
+      "productName": "Tania",
+      "tating": "<ReferenceError: number is not defined>",
+      "email": "tanialynn@ronbert.com",
+      "Status": "stock"
+    },
+    {
+      "_id": "64c3b44e07cdd832ac8f8d4e",
+      "image": "http://placehold.it/32x32",
+      "price": 23,
+      "eyeColor": "blue",
+      "productName": "Burke",
+      "tating": "<ReferenceError: number is not defined>",
+      "email": "burkelynn@ronbert.com",
+      "Status": "stock"
+    }
+  ]
+}
