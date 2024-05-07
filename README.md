@@ -1,6 +1,6 @@
 # Project Name : PC Forge #
 
-1. Live Website Link : https://pc-builder-app.vercel.app
+1. Live Website Link : https://pc-forge.vercel.app/
 
 
 ## Description ##
