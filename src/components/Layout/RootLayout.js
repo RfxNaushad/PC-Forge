@@ -196,7 +196,7 @@ const RootLayout = (props) => {
               <LinkedinFilled />
             </Link>
           </p>
-          PC Builder Hub ©2023 Created by Naushad Karim
+          PC Builder Hub ©2024 Created by Naushad Karim
         </Footer>
     </Layout>
   );
